@@ -4,6 +4,10 @@
 
 2. Add Two Numbers
 
+7. Reverse Integer
+
+13. Roman to Integer
+
 140. Word Break II
 
 623. Add One Row to Tree
