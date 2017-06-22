@@ -14,9 +14,15 @@
 
 14. Longest Common Prefix
 
+15. 
+
+43.
+
 46. Permutations
 
 51. N-Queens
+
+127.
 
 140. Word Break II
 
