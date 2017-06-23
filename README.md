@@ -14,17 +14,25 @@
 
 14. Longest Common Prefix
 
-15. 
+15. 3Sum
 
-43.
+23. Merge k Sorted Lists
+
+43. Multiply Strings
 
 46. Permutations
 
 51. N-Queens
 
-127.
+67. Add Binary
+
+127. Word Ladder
 
 140. Word Break II
+
+230. Kth Smallest Element in a BST
+
+565. Array Nesting
 
 611. Valid Triangle Number
 
