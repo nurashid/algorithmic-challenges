@@ -32,6 +32,8 @@
 
 230. Kth Smallest Element in a BST
 
+325. Maximum Size Subarray Sum Equals k
+
 565. Array Nesting
 
 611. Valid Triangle Number
