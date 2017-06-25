@@ -24,7 +24,11 @@
 
 51. N-Queens
 
+52. N-Queens ||
+
 67. Add Binary
+
+125. Valid Palindrome
 
 127. Word Ladder
 
@@ -32,10 +36,18 @@
 
 230. Kth Smallest Element in a BST
 
+278. First Bad Version
+
+314. Binary Tree Vertical Order Traversal
+
 325. Maximum Size Subarray Sum Equals k
+
+374. Guess Number Higher or Lower
 
 565. Array Nesting
 
 611. Valid Triangle Number
 
 623. Add One Row to Tree
+
+628. Maximum Product of Three Numbers
