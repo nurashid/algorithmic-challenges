@@ -18,6 +18,8 @@
 
 17. Letter Combinations Of A Phone Number
 
+21. Merge Two Sorted Lists
+
 23. Merge K Sorted Lists
 
 28. Implement Strstr
@@ -28,11 +30,15 @@
 
 51. N Queens
 
+51. N Queens
+
 52. N Queens II
 
 67. Add Binary
 
 97. Interleaving String
+
+109. Convert Sorted List To Binary Search Tree
 
 125. Valid Palindrome
 
