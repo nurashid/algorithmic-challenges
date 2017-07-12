@@ -38,11 +38,13 @@
 
 52. N Queens II
 
-53. Maximum Subarray
+54. Spiral Matrix
 
 67. Add Binary
 
 97. Interleaving String
+
+99. Recover Binary Search Tree
 
 109. Convert Sorted List To Binary Search Tree
 
@@ -60,9 +62,13 @@
 
 234. Palindrome Linked List
 
+236. Lowest Common Ancestor Of A Binary Tree
+
 238. Product Of Array Except Self
 
 278. First Bad Version
+
+283. Move Zeroes
 
 314. Binary Tree Vertical Order Traversal
 
@@ -73,6 +79,8 @@
 374. Guess Number Higher Or Lower
 
 475. Heaters
+
+498. Diagonal Traverse
 
 557. Reverse Words In A String III
 
@@ -87,4 +95,6 @@
 623. Add One Row To Tree
 
 628. Maximum Product Of Three Numbers
+
+637. Average Of Levels In Binary Tree
 

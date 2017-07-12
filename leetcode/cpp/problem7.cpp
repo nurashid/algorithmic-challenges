@@ -1,6 +1,11 @@
 class Solution {
 public:
     // Check for overflow
+    // Algorithm:
+    // 1. Check for negativity
+    // 2. Make number positive
+    // 3. have output = 0
+    // 4. for every rightmost digit of the integer
     int reverse(int x) {
         int negative = (x < 0) ? true : false;
         if (negative)
