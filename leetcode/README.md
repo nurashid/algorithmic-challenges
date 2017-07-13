@@ -20,6 +20,8 @@
 
 15. 3Sum
 
+16. 3Sum Closest
+
 17. Letter Combinations Of A Phone Number
 
 21. Merge Two Sorted Lists
@@ -42,6 +44,8 @@
 
 67. Add Binary
 
+69. Sqrtx
+
 97. Interleaving String
 
 99. Recover Binary Search Tree
@@ -52,11 +56,15 @@
 
 117. Populating Next Right Pointers In Each Node II
 
+120. Triangle
+
 125. Valid Palindrome
 
 127. Word Ladder
 
 140. Word Break II
+
+198. House Robber
 
 230. Kth Smallest Element In A Bst
 
@@ -65,6 +73,8 @@
 236. Lowest Common Ancestor Of A Binary Tree
 
 238. Product Of Array Except Self
+
+269. Alien Dictionary
 
 278. First Bad Version
 
