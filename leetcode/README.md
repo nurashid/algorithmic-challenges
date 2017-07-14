@@ -24,6 +24,8 @@
 
 17. Letter Combinations Of A Phone Number
 
+20. Valid Parentheses
+
 21. Merge Two Sorted Lists
 
 23. Merge K Sorted Lists
@@ -39,6 +41,8 @@
 51. N Queens
 
 52. N Queens II
+
+53. Maximum Subarray
 
 54. Spiral Matrix
 
@@ -64,6 +68,10 @@
 
 140. Word Break II
 
+155. Min Stack
+
+168. Excel Sheet Column Title
+
 198. House Robber
 
 230. Kth Smallest Element In A Bst
@@ -71,6 +79,8 @@
 234. Palindrome Linked List
 
 236. Lowest Common Ancestor Of A Binary Tree
+
+237. Delete Node In A Linked List
 
 238. Product Of Array Except Self
 
