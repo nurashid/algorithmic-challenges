@@ -1,6 +1,6 @@
 class Solution {
     /* Trick is to remembering to do (A - 1)
-     */ 
+     */
 public:
     string convertToTitle(int A) {
         string result = "";
